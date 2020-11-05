@@ -7789,10 +7789,23 @@ icons:
     categories:
       - Brand Icons
 
-
-
-
-
+  - name:       Pixiv
+    id:         pixiv
+    unicode:    f35f
+    created:    1.3
+    url:        pixiv.net
+    categories:
+      - Brand Icons
+      
+  - name:       Itch
+    id:         itch
+    unicode:    f360
+    created:    1.3
+    url:        itch.io
+    filter:
+      - funding
+    categories:
+      - Brand Icons
 
 
 
