@@ -6811,7 +6811,7 @@ icons:
     id:         discord
     unicode:    f2ee
     created:    1.0
-    url:        discordapp.com
+    url:        discord.com
     filter:
       - chat
     categories:
@@ -6822,7 +6822,7 @@ icons:
     id:         discord-alt
     unicode:    f2ef
     created:    1.0
-    url:        discordapp.com
+    url:        discord.com
     filter:
       - chat
     categories:
